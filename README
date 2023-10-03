@@ -1,0 +1,48 @@
+Git Hub é uma plataforma onde você armazena os seus códigos em nuvem.(projetos públicos e privados compartilhados).
+
+Git é a tecnologia que usamos para versinonar nossos projetos e nossos códigos.
+
+Ramificação ou branch-duplicação do projeto e controle de versão que permite alterar partes do código separadamente.
+
+git remote -v (mostra endereço onde está)/origin (manda sempre subir)/pull atualizar/pegar upstream
+Git init -inicialized repository in:/ users caminho pasta.
+
+pasta .git(arquivos ocultos do sistema, arquivos que não precisamos mexer).
+Git clone (permite clonar/baixar um repo do servidor remoto no seu Pc-local)
+code/git clone/ https-ssh-github cli colar url copiada que quero clonar/
+2-git status(mostra status de arquivos que tiveram alteração)
+git add (adiciona 1 ou mais arquivos na área de preparação)-uma moficação
+1-git add. nome do arquivo/caminho/ vermelho modificações/verde o que foi adicionado-todas modificações
+git reset arquivo que quero voltar (volta para o antigo estado)
+git reset .(volta todos arquivos para note state-estado anterior)
+1.git commit (registra um marco das alterações feitas no arquivo) /fica amarelo/
+git commit -m (mensangem de modificações de status)
+git remote vincula um repo local a um repo remoto.
+git push envia as alteraçoes locais para o dispositivo remoto(mensagem para a branch remoto)
+git pull comando que baixa todas alterações do repo remoto para o repo local
+git checkout navegação branch diferentes e criação de branchs news(cria uma nova branch)
+git remote -v (mostra endereço)
+mkdir "nome da nova pasta"(cria nova pasta)
+cd .git( mudar o diretório atual no terminal para a pasta chamada ".git" dentro do diretório)
+
+
+
+mkdir "repositorio"
+cd nome do arquivo/pasta
+1-git init (modifica arquivo)
+2-cd .git (mudar o diretório para .git)
+git config
+git clone (http://...)caminho do repositorio
+2-git status (ver arquivo em not stage ou modificado)
+git remote add remote url
+3-git add. (colocar na área de preparação, aparece que o arquivo foi moficado )
+git clone url --branch nome branch-- single branch
+4- git commit -m "mensagem de commit" (passar mensagem para o comite)
+5- commit feito gera um código (create 10067 index.js)-repo recebeu um marco um registro
+git pull origin main(nome da branch) traz alterações
+git  remote add origin url...'C:\Users\raque\Desktop\Cubos academy projects'
+git push -u main(nome da branch)- git push origin main
+git checkout -b (nome da branch)
+git restore nome do arquivo
+Create repository github
+owner(dono)/ repository name(aula-git)/description---/public ou private/ add readme/.git ignore/ create repository/(recebe instruções para add repo remoto p um local)

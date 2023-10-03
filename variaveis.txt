@@ -1,0 +1,9 @@
+variavel serve para guardar dados/informações com um nome e um conteudo
+const palavra reservada não pode ser usada para mais nada apenas para criar variavel
+const (constante n pode mudar)+ nome da variavel = "Raquel";(o sinal de igual representa atribuição, estamos atribuindo um valor para variavel)-string- valor tipo texto.
+console.log(imprime coisas na tela);
+PS C:\Users\raque\Desktop\Cubos academy projects> cd ..(volta uma pasta)
+PS C:\Users\raque\Desktop\Cubos academy projects> node .\variaveis-const.js (entrar no arquivo)
+let (palavra reservada que permite mudanças)
+ls (mostram arquivos da página)
+string template(template de texto, base de texto e dentro coloca uma variavel) (`minha idade é ${idade} anos`)minha idade é 30 anos e minha altura é 1.73 metros.
